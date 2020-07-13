@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="NDPProje.AnaPencere">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAACAACAAAAACIAAACAABAAAAAEAABAAAAAAA=</HashCode>
+      <FileName>AnaPencere.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NDPProje.Mermi">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Mermi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NDPProje.Oyun">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAIpASBAAACAIAAEAYKABAgAAAUVIQEAAAAIIEAAE=</HashCode>
+      <FileName>Oyun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NDPProje.Program">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NDPProje.Ucak">
+    <Position X="4.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAEAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ucak.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NDPProje.Ucaksavar">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAgABAAAAEAAAAAAAAAAAAAAAAAAAEAEAAAA=</HashCode>
+      <FileName>Ucaksavar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NDPProje.Properties.Resources">
+    <Position X="6" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAABAAAABgAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NDPProje.Properties.Settings">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
